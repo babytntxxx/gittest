@@ -1,4 +1,5 @@
- this is a test
-\n the 2 two line
+this is a test
+the 2 two line
 the line 3 the add
 the line4 test
+最后加一行测试
